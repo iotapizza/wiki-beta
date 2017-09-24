@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Love, peace and happiness -->
 
 # IOTA Community
-Some basic info about the community here.
+Some basic info about the community needed here.
 # Pages
 Summary of pages in `/community`
 
