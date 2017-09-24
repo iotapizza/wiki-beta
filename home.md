@@ -6,7 +6,7 @@
 # About this Wiki
 After registering to the [iotatangle Slack](/community/slack) a few months ago I learned how difficult it is to find specific information in this environment designed for small teams. Developers and regular users provide very helpful answers to most of the questions, but especially new users joining the Slack have a hard time finding useful material in between the large amount of gossip, parrots and flashing HODL banners. All information is basically hidden from the public (from search engines too) and can't be shared with the people outside of Slack in a straightforward way.
 
-We, the community should make IOTA more accessible for the large number of developers, researchers, journalists, investors and people otherwise interested in this exciting technology. By creating a comprehensive, open knowledge platform we can reduce the number of (duplicate) questions while we prevent common errors and misunderstandings, accelerate growth and improve productivity and happiness of everyone.
+We, the community should make IOTA more accessible for the large number of developers, researchers, journalists and people otherwise interested in this exciting technology. By creating a comprehensive, open knowledge platform we can reduce the number of (duplicate) questions while we prevent common errors and misunderstandings, accelerate growth and improve productivity and happiness of everyone.
 
 The aim of IOTA Wiki is to collect and publish all the useful information about [IOTA](/iota) and [JINN](/jinn), their underlying [technology](/research), [ecosystem](/p) and [community](/community). All information belongs to the community and is backed up in a public [Git repository](https://github.com/iotapizza/iota-wiki).
 # Usage and workflow
