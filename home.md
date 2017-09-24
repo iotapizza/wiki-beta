@@ -25,7 +25,7 @@ Write permission is individually assigned to users (or groups of users) who want
 
 The information will be grouped into sections like [/dev](/dev), [/research](/research), `/wallet`, `/spanish` (or simply `/es`)  and only selected users get write permission in each section. A specific group of users will be able to create and edit pages about `/research` aspects of IOTA, while `/wallet` guides can be managed only by wallet developers. (These pages contain sensitive data like download links and checksums.)
 
-It would be great to see many different users here, especially those not having a technical background looking for a way to contribute. Grab the initiative and start turning this wiki into an informational, educational and entertaining place for the entire IOTA community.
+It would be great to see many different users here, especially those not having a technical background looking for a way to contribute. Grab the initiative and start to turn this wiki into an informational, educational and entertaining place for the entire IOTA community.
 # Technical details
 [IOTA Wiki](/wiki) is based on [Wiki.js](https://github.com/Requarks/wiki), a simple and very lightweight wiki engine which can be customized and extended to our needs easily. The entire content is archived in a [public repository on GitHub](https://github.com/iotapizza/iota-wiki) that keeps track of the changes too.
 
